@@ -1,0 +1,43 @@
+.contact-card {
+	margin-bottom: 20px;
+	padding: 30px;
+	width: 80%;
+	background: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: gray 0 0 10px;
+}
+
+.profile-photo {
+	height: 180px;
+	padding: 20px;
+	border-radius: 50%;
+}
+
+.contact-details {
+	margin: 0 auto 0 18px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.contact-name {
+	font-size: 18px;
+	
+}
+
+.contact-phone {
+	font-size: 18px;
+	
+}
+
+
+
+.btn-img-edit{
+	background-position: 0px -122px;
+}
+
+.btn-img-delete{
+	background-position: 22px 0px;
+}
